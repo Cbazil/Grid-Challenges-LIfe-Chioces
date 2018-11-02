@@ -1,0 +1,18 @@
+.lecture_grid {
+display: grid;
+grid-template-columns: 1fr 3fr;
+}
+img {
+    width: 300px;
+}
+.nav_Sec {
+width: 100%;
+height: 40px;
+background-color: Black;
+}
+li {
+    display: inline-block;
+    padding-right: 250px;
+    color: white;
+    padding-top: 12px;
+}
