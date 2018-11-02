@@ -3,7 +3,7 @@ display: grid;
 grid-template-columns: 1fr 3fr;
 }
 img {
-    width: 300px;
+    width: 330px;
 }
 .nav_Sec {
 width: 100%;
@@ -15,4 +15,10 @@ li {
     padding-right: 250px;
     color: white;
     padding-top: 12px;
+}
+.photo_Gal_Grid {
+    margin: 30px;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 6em;
 }
