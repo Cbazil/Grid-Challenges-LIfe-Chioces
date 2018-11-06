@@ -22,6 +22,7 @@ Using:
 ### Challenge 2
 - Added header and nav section(for the different groups)
 - Made grid in main semantic div , 12 imgs , 3 columns each row(4) is a group
+- Added the images of all the people to respective grid box, Linked then groups for navigation
 
 ---
 
