@@ -23,8 +23,7 @@ Using:
 - Added header and nav section(for the different groups)
 - Made grid in main semantic div , 12 imgs , 3 columns each row(4) is a group
 - Added the images of all the people to respective grid box, Linked then groups for navigation
-
----
+- Changed the bgColors of certain sections, changed grid gap sizes and fixed the Nav bar at the bottom for better visibility. Postioned and shaped      elements to look a lot better.
 
 Click on link to make it live: 
 
